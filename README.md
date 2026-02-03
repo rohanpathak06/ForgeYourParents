@@ -61,23 +61,6 @@ Vercel or Netlify for frontend
 
 Render or Railway for backend
 
-Project Structure
-forgeyourparents/
-│
-├── frontend/
-│   ├── components/
-│   ├── pages/
-│   └── styles/
-│
-├── backend/
-│   ├── routes/
-│   ├── controllers/
-│   ├── models/
-│   └── middleware/
-│
-├── README.md
-└── package.json
-
 How It Works
 
 User signs up on the platform
@@ -127,3 +110,4 @@ Contributions are welcome. If you want to improve the UI, add features, or refac
 License
 
 This project is licensed under the MIT License
+
